@@ -1,0 +1,1 @@
+import{c as s,a as c}from"../chunks/CzPi8x4E.js";import{b as p,E as i,N as m}from"../chunks/48afcB7n.js";import{B as f}from"../chunks/DkzDS-6w.js";function l(a,r,...n){var o=new f(a);p(()=>{const e=r()??null;o.ensure(e,e&&(t=>e(t,...n)))},i)}function E(a,r){var n=s(),o=m(n);l(o,()=>r.children),c(a,n)}export{E as component};
