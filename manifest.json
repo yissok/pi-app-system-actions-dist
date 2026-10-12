@@ -1,0 +1,25 @@
+{
+  "version": 4,
+  "assets": "https://yissok.github.io/pi-app-system-actions-dist/releases/700b7b8c157a4a24487be73c0ba2e12b936dcfa3-38245486758-1",
+  "app": "pi-app-system-actions",
+  "global": "__sveltekit_134qf10",
+  "start": "_app/immutable/entry/start.CJWC5hBD.js",
+  "appEntry": "_app/immutable/entry/app.BhAmG2rx.js",
+  "styles": [],
+  "scripts": [],
+  "preloads": [
+    "https://yissok.github.io/pi-app-system-actions-dist/releases/700b7b8c157a4a24487be73c0ba2e12b936dcfa3-38245486758-1/_app/immutable/entry/start.CJWC5hBD.js",
+    "https://yissok.github.io/pi-app-system-actions-dist/releases/700b7b8c157a4a24487be73c0ba2e12b936dcfa3-38245486758-1/_app/immutable/chunks/CYZ1ENvu.js",
+    "https://yissok.github.io/pi-app-system-actions-dist/releases/700b7b8c157a4a24487be73c0ba2e12b936dcfa3-38245486758-1/_app/immutable/chunks/Dfn8Psf8.js",
+    "https://yissok.github.io/pi-app-system-actions-dist/releases/700b7b8c157a4a24487be73c0ba2e12b936dcfa3-38245486758-1/_app/immutable/chunks/DK4_ttQw.js",
+    "https://yissok.github.io/pi-app-system-actions-dist/releases/700b7b8c157a4a24487be73c0ba2e12b936dcfa3-38245486758-1/_app/immutable/entry/app.BhAmG2rx.js",
+    "https://yissok.github.io/pi-app-system-actions-dist/releases/700b7b8c157a4a24487be73c0ba2e12b936dcfa3-38245486758-1/_app/immutable/chunks/D9ZLV0mK.js",
+    "https://yissok.github.io/pi-app-system-actions-dist/releases/700b7b8c157a4a24487be73c0ba2e12b936dcfa3-38245486758-1/_app/immutable/chunks/Dwsh6vRw.js",
+    "https://yissok.github.io/pi-app-system-actions-dist/releases/700b7b8c157a4a24487be73c0ba2e12b936dcfa3-38245486758-1/_app/immutable/chunks/6MI2XUp1.js",
+    "https://yissok.github.io/pi-app-system-actions-dist/releases/700b7b8c157a4a24487be73c0ba2e12b936dcfa3-38245486758-1/_app/immutable/nodes/0.CRiRneHV.js"
+  ],
+  "social": {
+    "title": "Pi App System Actions",
+    "description": "An interactive website created with Project Factory."
+  }
+}
